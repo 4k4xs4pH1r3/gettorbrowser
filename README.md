@@ -9,4 +9,4 @@ You will see a windows with this message Downloading Tor Browser for the first t
 
 # Download Tor Browser
 
-https://github.com/TheTorProject/gettorbrowser
+https://github.com/TheTorProject/gettorbrowser/releases
